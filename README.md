@@ -6,3 +6,4 @@
 
 
 ブランチです
+New line added by a local enviroment.
